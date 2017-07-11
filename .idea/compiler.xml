@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="modelTest_main" target="1.8" />
+      <module name="modelTest_test" target="1.8" />
+      <module name="yulei-model-core_main" target="1.8" />
+      <module name="yulei-model-core_test" target="1.8" />
+      <module name="yulei-model-facade_main" target="1.8" />
+      <module name="yulei-model-facade_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

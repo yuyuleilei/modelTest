@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modelTest.iml" filepath="$PROJECT_DIR$/.idea/modules/modelTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modelTest_main.iml" filepath="$PROJECT_DIR$/.idea/modules/modelTest_main.iml" group="modelTest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modelTest_test.iml" filepath="$PROJECT_DIR$/.idea/modules/modelTest_test.iml" group="modelTest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/yulei-model-core.iml" filepath="$PROJECT_DIR$/.idea/modules/yulei-model-core.iml" group="yulei-model-core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/yulei-model-core/yulei-model-core_main.iml" filepath="$PROJECT_DIR$/.idea/modules/yulei-model-core/yulei-model-core_main.iml" group="yulei-model-core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/yulei-model-core/yulei-model-core_test.iml" filepath="$PROJECT_DIR$/.idea/modules/yulei-model-core/yulei-model-core_test.iml" group="yulei-model-core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/yulei-model-facade/yulei-model-facade.iml" filepath="$PROJECT_DIR$/.idea/modules/yulei-model-facade/yulei-model-facade.iml" group="yulei-model-facade" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/yulei-model-facade/yulei-model-facade_main.iml" filepath="$PROJECT_DIR$/.idea/modules/yulei-model-facade/yulei-model-facade_main.iml" group="yulei-model-facade" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/yulei-model-facade/yulei-model-facade_test.iml" filepath="$PROJECT_DIR$/.idea/modules/yulei-model-facade/yulei-model-facade_test.iml" group="yulei-model-facade" />
+    </modules>
+  </component>
+</project>
